@@ -1,0 +1,8 @@
+{
+  "name": "RecycleSnap",
+  "description": "A sustainability platform to identify recyclable waste using AI and find nearby recycling centers.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
